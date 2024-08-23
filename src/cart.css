@@ -1,0 +1,14 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+button{
+    background-color:gold;
+    padding: 10px;
+}
+case 'pant':
+                return{amount:state.amount+1000};
+                case 'watch':
+                    return{amount:state.amount+2000};
+                    case 'shoe':
+                        return{amount:state.amount+2000};
